@@ -1,19 +1,30 @@
-![GitBanner](https://user-images.githubusercontent.com/62769780/201965071-8ca98ee4-517c-4e9e-831d-f3a3aa85fdee.png)
+<h1 align="center">Hi 👋, I'm Wasooked</h1>
+<h3 align="center">A FiveM Clothing Developer and Self Learning C# Developer</h3>
 
-<h1>Hey, I'm Tom 👋</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=notwasooked&label=Profile%20views&color=0e75b6&style=flat" alt="notwasooked" /> </p>
 
-<p>I'm a self learning developer from England. I don't know too much when it comes to coding but i do try my best. I like to have fun programming and where I can, I like to pass on what I've learned over my time doing this to others in hopes that more people can get into programming.</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notwasooked" alt="notwasooked" /></a> </p>
 
-<h2>Some Recent Content 🎥</h2>
+- 🔭 I’m currently working on [PoliceMP as a Clothing Developer](https://policemp.com)
 
-<ul>
-   <li>
-    <a href="https://github.com/tf9205/" target="_blank">Coming Soon...</a>
-  </li>
-</ul>
+- 🌱 I’m currently learning **C# through Cfx.re and FiveM**
 
-<h2>What I'm Working On</h2>
+- 👨‍💻 All of my projects are available at [https://github.com/NotWasooked](https://github.com/NotWasooked)
 
-<p>My main goal right now is to get better every day as both a programmer and better my skills. That said, I'm pretty much always tinkering away on some kind of side project.<p>
-  
-<p>For the last couple of months I've been slowly chiseling away at a small FiveM server using lua and honestly it has been so fun to work on. With that in mind, I hope to be able to start sharing some amazing stuff here (so keep your eyes peeled) 🔥</p>
+- 💬 Ask me about **PoliceMP, FiveM Clothing, All Sorts**
+
+- 📫 How to reach me **notwasooked@gmail.com**
+
+- ⚡ Fun fact **Everything I know, I've taught myself.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=notwasooked&show_icons=true&locale=en&layout=compact" alt="notwasooked" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notwasooked&show_icons=true&locale=en" alt="notwasooked" /></p>
+
